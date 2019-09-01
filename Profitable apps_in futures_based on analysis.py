@@ -543,6 +543,6 @@ for app in free_eng_android_clean:
 
 # Gayathri's take on this:
 # 
-# There are very few medical apps that are good and are in demand. Based rise in the number of games
-# and entertainment apps and less of fitness/health apps, 
-# there is a possibility that these medical apps can prove demanding in future. 
+# There are very few medical apps that are good and are in demand. Based on rise in the number of games
+# and entertainment apps and less of fitness/health apps, there is a possibility that these medical apps can prove demanding in future.
+# Updated on 9/1/2019
